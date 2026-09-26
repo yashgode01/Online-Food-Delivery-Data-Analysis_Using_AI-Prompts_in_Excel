@@ -1,7 +1,4 @@
-# Online-Food-Delivery-Data-Analysis_Using_AI-Prompts_in_Excel
-Online Food Delivery data analysis project using Excel, AI prompts, pivot tables, charts and dashboards to analyze customer behavior and identify key insights.
-
-<img width="1678" height="671" alt="Picture1" src="https://github.com/user-attachments/assets/0676be41-5009-4719-820b-82035c4446d7" />
+<img width="1678" height="671" alt="Picture1" src="https://github.com/user-attachments/assets/17578a60-2c61-447e-ac13-f34c195d526a" />
 
 # Online Food Analysis - Ashoka Restaurant
 
